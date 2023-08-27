@@ -18,7 +18,7 @@ The 8-bit even down counter is a valuable component in digital systems, allowing
 
 
 ## ***Tech Stack***
-[Vivado ML Edition - 2023.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2023-1.html) used to implement the code and [draw.io](https://app.diagrams.net/) website to design the circuit.
+[Vivado ML Edition - 2023.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2023-1.html) used to implement the code.
 
 ## ***Working***
 
@@ -48,7 +48,7 @@ The implementation of the 8-bit even number counter using D flip-flops in Verilo
 ##	***References*** ##
 [1] "Asynchronous Counter" - Electronics Hub Link:[ https://www.electronicshub.org/asynchronous-counter/](//www.electronicshub.org/asynchronous-counter/)
 
-[2] "Asynchronous Down Counter using D Flip-Flops" - Electronics Stack Exchange Link: [https://electronics.stackexchange.com/questions/223986/asynchronous-down-counter-using-d-flip-flops](//electronics.stackexchange.com/questions/223986/asynchronous-down-counter-using-d-flip-flops)
+[2] "Asynchronous Down Counter using D Flip-Flops" - Electronics Stack Exchange Link:[https://electronics.stackexchange.com/questions/223986/asynchronous-down-counter-using-d-flip-flops](//electronics.stackexchange.com/questions/223986/asynchronous-down-counter-using-d-flip-flops)
 
 [3] "Asynchronous Counter Tutorial" - YouTube Video by Neso Academy Link: [https://www.youtube.com/watch?v=ts4g_NUuHAc](//www.youtube.com/watch?v=ts4g_NUuHAc)
 
