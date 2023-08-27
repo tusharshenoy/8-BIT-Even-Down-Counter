@@ -27,7 +27,8 @@ The 8-bit even down counter is a valuable component in digital systems, allowing
 
 ![image](https://github.com/tusharshenoy/4-BIT-Johnson-Counter/assets/107348474/e6b54667-ae5f-41c6-afa3-34fde4f3ff9e)
 
-![image](https://github.com/tusharshenoy/8-BIT-Even-Down-Counter/assets/107348474/846c1738-41f4-40f2-b2b3-ed5a1a767df1)
+![image](https://github.com/tusharshenoy/8-BIT-Even-Down-Counter/assets/107348474/c33511cc-17e1-4fcb-a6a7-9a16da4c592b)
+
 
 <br>
 
@@ -37,7 +38,8 @@ In this project, we designed a 8-bit even down counter using D flip-flops in Ver
 
 
 ### ***Waveform*** ###
-![image](https://github.com/tusharshenoy/8-BIT-Even-Down-Counter/assets/107348474/967bca34-f8b7-44d8-8b13-caabba36571f)
+![image](https://github.com/tusharshenoy/8-BIT-Even-Down-Counter/assets/107348474/6a525b36-ea0f-45f0-8cc4-2ab5b4508126)
+
 
 
 
